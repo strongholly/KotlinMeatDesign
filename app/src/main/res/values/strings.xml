@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ders Kütüphanem</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="change_theme">Temayı Değiştir</string>
+</resources>
